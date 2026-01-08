@@ -1,6 +1,6 @@
 body
 {
-     background-color: bisque;
+     background-color: antiquewhite
 
 }
 .container
@@ -15,35 +15,51 @@ body
       text-align: center;
      color: brown;
      padding: 20 px;
+     margin-left: 10%;
      
+}
+.recipe
+{
+    display: inline-block;
+    margin-left: 500px;
+    margin-bottom: 14px;
+}
+
+
+.recipe1,.recipe2,.recipe3
+{
+    display: inline-block;
+    margin-left: 80px; 
+    margin-bottom: 14px;
 }
 .imag img{
 
-   width: auto;
-    height: 230px;
-    margin-left: 480px;
+   width: 300px;
+    height: 300px;
+    margin-left: 450px;
     margin-bottom: 10px;
     display: block;
    
 }
 .ing , .pro
 {
-    width: 40%;
+    width: 20%;
     display: inline-block;
-   background-color: ;
+ 
+    color: brown;
 
 }
 .ing{
 
     
-    margin-left: 9%;
+    margin-left: 18%;
 }
 .pro{
     display: inline-block;
-    width: 40%;
+    width: 20%;
     vertical-align: top;
     margin-top: 0px;
-    margin-left: 10%;
+    margin-left: 35%;
 }
 
 h2{

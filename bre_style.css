@@ -1,0 +1,69 @@
+body
+{
+     background-color: antiquewhite;
+
+}
+.container
+{
+    max-width: 90%
+    
+     
+}
+
+.main
+{
+      text-align: center;
+     color: brown;
+     padding: 20 px;
+     
+}
+.recipe
+{
+    display: inline-block;
+    margin-left: 500px;
+    margin-bottom: 14px;
+}
+
+
+.recipe1,.recipe2,.recipe3
+{
+    display: inline-block;
+    margin-left: 80px; 
+    margin-bottom: 14px;
+}
+.imag img{
+
+   width: auto;
+    height: 300px;
+    margin-left: 350px;
+    margin-bottom: 10px;
+    display: block;
+   
+}
+.ing , .pro
+{
+    width: 25%;
+    display: inline-block;
+     color: brown
+
+}
+.ing{
+
+    
+    margin-left: 17%;
+}
+.pro{
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+    margin-top: 0px;
+    margin-left: 25%;
+}
+
+h2{
+    margin-bottom: 10px;
+}
+ol{
+
+    padding-left: 20px;
+}
