@@ -1,0 +1,55 @@
+body
+{
+     background-color: bisque;
+
+}
+.container
+{
+    max-width: 90%
+    
+     
+}
+
+.main
+{
+      text-align: center;
+     color: brown;
+     padding: 20 px;
+     
+}
+.imag img{
+
+   width: auto;
+    height: 230px;
+    margin-left: 480px;
+    margin-bottom: 10px;
+    display: block;
+   
+}
+.ing , .pro
+{
+    width: 40%;
+    display: inline-block;
+   background-color: ;
+
+}
+.ing{
+
+    
+    margin-left: 9%;
+}
+.pro{
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+    margin-top: 0px;
+    margin-left: 10%;
+}
+
+h2{
+    margin-bottom: 10px;
+}
+ol{
+
+    padding-left: 20px;
+}

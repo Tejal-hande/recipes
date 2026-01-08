@@ -1,0 +1,41 @@
+body{
+    
+    background-color:bisque ;
+}
+.container
+{
+    width: 100%;
+}
+.main
+{
+    text-align: center;
+    color: brown;
+     padding: 20 px;
+     
+}
+
+.imag img
+{
+    width: 60%;
+    height: auto;
+    margin-left: 230px;
+    margin-bottom: 10px;
+    display: block;
+   
+}
+.box2
+{
+    width: 80%;
+    margin: 20px;
+    margin-left: 100px;
+    text-align: center;
+    font-size: 16px;
+    color: brown;
+    
+}
+.recipe
+{
+    width: 50% ;
+    margin: 20px;
+    margin-left: 530px;
+}
